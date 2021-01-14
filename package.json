@@ -1,0 +1,23 @@
+{
+  "name": "youtube-thumb",
+  "version": "1.0.0",
+  "description": "Cloudflare worker TypeScript template",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "NODE_ENV=development npm run build",
+    "format": "prettier --write '**/*.{ts,js,css,json,md}'"
+  },
+  "author": "Timothy Cole",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^2.1.0",
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "prettier": "^2.2.1",
+    "ts-loader": "^8.0.14",
+    "typescript": "^4.1.3",
+    "webpack": "^5.14.0",
+    "webpack-cli": "^4.3.1"
+  }
+}
