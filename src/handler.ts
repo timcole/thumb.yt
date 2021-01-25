@@ -18,6 +18,9 @@ const index = `
   <a href="/4Z_Bdn9Y3Kw"><img src="/4Z_Bdn9Y3Kw" alt="Thumbnail of Wes Bos' video" /></a>
   <hr />
   <p>Created by <a href="https://twitter.com/ModestTim/status/1349566880726573062" target="_blank">ModestTim</a> &mdash; <a href="https://github.com/timcole/thumb.yt" target="_blank">Source Code</a></p>
+  <hr />
+  <h4>React Component Example</h4>
+  <iframe allowfullscreen="allowfullscreen" allowpaymentrequest="" src="//jsfiddle.net/TimCole/dw4rkpcs/6/embedded/js,result/dark/" width="100%" height="500" frameborder="0"></iframe>
 </body>
 </html>`;
 
